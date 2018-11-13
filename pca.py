@@ -73,4 +73,4 @@ def pca_using_numpy():
     plt.title("Cumulative variance")
     plt.show()
 
-pca_using_numpy()
+pca_using_sklearn()
